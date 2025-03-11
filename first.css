@@ -1,0 +1,57 @@
+button{
+    text-align: center;
+    margin-left: 500px;
+}
+#id1{
+    margin-bottom: 25px;
+}
+#id2{
+    margin-bottom: 25px;
+}
+#id3{
+    margin-bottom: 25px;
+}
+#id4{
+    margin-bottom: 25px;
+}
+#id5{
+    margin-bottom: 25px;
+}
+#id6{
+    margin-bottom: 25px;
+}
+#id7{
+    margin-bottom: 25px;
+}
+#id8{
+    margin-bottom: 25px;
+}
+#id9{
+    margin-bottom: 25px;
+}
+#id10{
+    margin-bottom: 25px;
+}
+#id11{
+    margin-bottom: 25px;
+}
+#id12{
+    margin-bottom: 25px;
+}
+#b1{
+    background-image: url("mahadev.jpg");   
+    background-size:auto;
+}
+h1{
+    color :white;
+    text-align: center;
+}
+#r{
+    color: red;
+}
+#p1{
+    font-family: Cambria;
+}
+#a{
+    font-style: italic;
+}
